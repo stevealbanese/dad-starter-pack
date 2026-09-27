@@ -3,8 +3,6 @@
 Baby & kids gear that works
 No affiliate links, no sponsorship.
 
-> ⚠️ Always check the seat manufacturer's vehicle compatibility list and try car seats in store before buying.
-
 ---
 
 ## 🚗 Car seats
