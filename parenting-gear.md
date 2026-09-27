@@ -39,7 +39,7 @@ Nuna = bulky
 
 | Product | Rocking | Push assist | Price |
 |---|---|---|---|
-| Cybex e-Priam (2026) | ✅ | ✅ | ~1,600–1,900 CHF |
+| Cybex e-Priam | ✅ | ✅ | ~1,600–1,900 CHF |
 
 
 ## 🎒 Changing bags
@@ -80,10 +80,10 @@ Nuna = bulky
 
 ## 😴 Sleep
 
-| Item | Product | Price |
-|---|---|---|
+| Item | Product |
+|---|---|
 
-| Baby monitor (video) | Philips Avent SCD891 | ~200 CHF |
+| Baby monitor (video) | Philips Avent SCD891 |
 
 ---
 
