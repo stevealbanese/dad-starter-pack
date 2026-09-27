@@ -76,9 +76,9 @@ La IKEA peut passer au Karcher... et le catchy pour éviter des crises de nerfs.
 
 ## 🪑 Bouncer
 
-| Product | Price |
-|---|---|
-| **BabyBjörn Bouncer Bliss** | ~200 CHF |
+| Product |
+|---|
+| **BabyBjörn Bouncer Bliss** |
 ---
 
 ## 😴 Sleep
