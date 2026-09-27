@@ -11,15 +11,12 @@ No affiliate links, no sponsorship.
 
 **Best plan: 2 steps, one shared rotating base.**
 
-| Stage | Product | Size | ADAC | Price |
-|---|---|---|---|---|
-| 0–15 months | Cybex Cloud T + Base T | 40–87 cm | – | ~350 CHF |
-| or | Osann One 360 i-Size | 0-4 years old | – | ~130-160 CHF |
-
-| Then | **Cybex Sirona T i-Size** (on same Base T) | 45–105 cm | ~350 CHF |
-| Then | Cybex Solution G2 (booster) | 100–150 cm | 2.1 | ~200 CHF |
-
-**Rules (Switzerland):** approved seat mandatory until 12 years or 150 cm. Rear-facing mandatory until at least 76 cm and 15 months (R129). Keep rear-facing as long as possible (BPA). Replace any seat after an accident.
+| Stage | Product | Size |
+|---|---|---|
+| 0–15 months | Cybex Cloud T + Base T | 40–87 cm |
+| or | Osann One 360 i-Size | 0-4 years old |
+| Then | **Cybex Sirona T i-Size** (on same Base T) | 45–105 cm |
+| Then | Cybex Solution G2 (booster) | 100–150 cm |
 
 ---
 
@@ -27,17 +24,18 @@ No affiliate links, no sponsorship.
 
 **Compact**
 
-| Product | Weight | Price |
-|---|---|---|
-| Babyzen YOYO³ | ~6.2 kg | ~450 CHF | -> why
+| Product | Weight |
+|---|---|
+| Babyzen YOYO³ | ~6.2 kg |
 
 **Big (large basket, big air wheels)**
 
 | Product | Price |
 |---|---|
-| Thule Urban Glide 3 | ~700 CHF |
-| TFK Pro / Mono 2 Air | ~800 CHF |
+| Thule Urban Glide 3 | Berk |
+| Nuna TRIV | Very good |
 
+Nuna = bulky
 
 **Electric (auto-rocking)**
 
@@ -56,7 +54,6 @@ No affiliate links, no sponsorship.
 | Backpack | Lässig Green Label Backpack | ~100 CHF |
 | Backpack | Skip Hop Forma Backpack | ~90 CHF |
 
-Check: stroller straps, changing mat included, insulated bottle pocket, waterproof bottom.
 
 ---
 
@@ -70,7 +67,6 @@ Check: stroller straps, changing mat included, insulated bottle pocket, waterpro
 | 6 months+ | **IKEA Antilop** high chair | ~25 CHF |
 | 6 months+ | **Catchy** food catcher tray for Antilop | ~35 CHF |
 
-Teat sizes: 0 extra slow · 1 slow · 2 medium (2m+) · 3 fast (4m+) · X thick liquids (6m+). Replace every 1–2 months.
 
 - **Bottle warmer:** not needed.
 - **Sterilizer:** optional. Hot soapy water or dishwasher is enough.
