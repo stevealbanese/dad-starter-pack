@@ -1,13 +1,8 @@
 # awesome-parenting-gear
 
-Baby & kids gear that works
-No affiliate links, no sponsorship.
-
 ---
 
 ## 🚗 Car seats
-
-**Best plan: 2 steps, one shared rotating base.**
 
 | Stage | Product | Size |
 |---|---|---|
@@ -15,6 +10,8 @@ No affiliate links, no sponsorship.
 | or | Osann One 360 i-Size | 0-4 years old |
 | Then | **Cybex Sirona T i-Size** (on same Base T) | 45–105 cm |
 | Then | Cybex Solution G2 (booster) | 100–150 cm |
+
+Tant qu'il faut les porter pour les installer un siège bébé qui rotate = must have.
 
 ---
 
@@ -25,46 +22,51 @@ No affiliate links, no sponsorship.
 | Product | Weight |
 |---|---|
 | Babyzen YOYO³ | ~6.2 kg |
+La poussette de bobo par excellence. Mais ne prend pas de place une fois pliée. Ca peut être chiant sur les pavée.
 
 **Big (large basket, big air wheels)**
 
 | Product | Price |
 |---|---|
-| Thule Urban Glide 3 | Berk |
+| Thule Urban Glide 3 | Berk 
 | Nuna TRIV | Very good |
 
-Nuna = bulky
+Nuna = bulky, mais le pack de bière passe dessous. Reloud dans un petit coffre de voiture.
+La Thule Urban Glide c'est pour les enculés qui veulent faire du jogging avec le petit dedans.
 
 **Electric (auto-rocking)**
 
-| Product | Rocking | Push assist | Price |
-|---|---|---|---|
-| Cybex e-Priam | ✅ | ✅ | ~1,600–1,900 CHF |
+| Product | Rocking | Push assist |
+|---|---|---|
+| Cybex e-Priam | ✅ | ✅ |
+
+Coute une couille, mais le auto-rocking peut sauver des moments resto.
 
 
 ## 🎒 Changing bags
 
-| Type | Product | Price |
-|---|---|---|
-| Stroller bag | Cybex Changing Bag | ~130 CHF |
-| Stroller bag | Lässig Green Label Tote Up Bag | ~80 CHF |
-| Backpack | **Bugaboo Changing Backpack** | ~180 CHF |
-| Backpack | Lässig Green Label Backpack | ~100 CHF |
-| Backpack | Skip Hop Forma Backpack | ~90 CHF |
+| Type | Product |
+|---|---|
+| Stroller bag | Cybex Changing Bag |
+| Stroller bag | Lässig Green Label Tote Up Bag |
+| Backpack | **Bugaboo Changing Backpack** | 
+| Backpack | Lässig Green Label Backpack |
+| Backpack | Skip Hop Forma Backpack | 
 
+OSEF en vrai, n'importe quel marque/sac peut faire l'affaire. Mais avoir un tapis à langer dans le sac c'est cool.
 
 ---
 
 ## 🍼 Feeding
 
-| Stage | Product | Price |
-|---|---|---|
-| Newborn | **MAM Feel Good glass 170 ml** | ~15 CHF |
-| 4 months+ | **MAM Easy Active 330 ml** (take the teat size 3 version) | ~12 CHF |
-| Spare teats | MAM SkinSoft (2-pack) — fit all MAM bottles | ~12 CHF |
-| 6 months+ | **IKEA Antilop** high chair | ~25 CHF |
-| 6 months+ | **Catchy** food catcher tray for Antilop | ~35 CHF |
+| Stage | Product |
+|---|---|
 
+| 6 months+ | **IKEA Antilop** high chair |
+| 6 months+ | **Catchy** food catcher tray for Antilop |
+
+Rien de mieux que la chaise IKEA. Faut oublier la Stocke de connard de bobo. Une GALERE à nettoyer.
+La IKEA peut passer au Karcher... et le catchy pour éviter des crises de nerfs.
 
 - **Bottle warmer:** not needed.
 - **Sterilizer:** optional. Hot soapy water or dishwasher is enough.
