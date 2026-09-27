@@ -82,9 +82,7 @@ Nuna = bulky
 
 | Item | Product | Price |
 |---|---|---|
-| Bedside crib (0–6 m) | Chicco Next2Me Forever | ~250 CHF |
-| Bedside crib (0–6 m) | SnüzPod 4 | ~300 CHF |
-| Mattress | IKEA Pelleplutt / Vyssa (firm, exact fit) | ~60–120 CHF |
+
 | Baby monitor (video) | Philips Avent SCD891 | ~200 CHF |
 
 ---
@@ -107,9 +105,7 @@ Nuna = bulky
 | Doorway (pressure-fit) | Lindam Sure Shut Axis | ~50 CHF |
 | Windows (fall risk) | Reer / Safety 1st window lock | ~15 CHF each |
 | Tall furniture (tip-over) | Anti-tip straps (IKEA kit / Safety 1st) | ~15 CHF |
-| Cleaning products & meds | Safety 1st / Reer magnetic locks | ~30 CHF |
 | Drawers & cupboards | Safety 1st / Reer flexible latches | ~10 CHF |
-| Blind cords (strangulation) | Cord winders / cleats | ~10 CHF |
 | Oven & hob | Reer oven lock + hob guard | ~20 / 40 CHF |
 | Door finger pinch | Foam door stoppers | ~10 CHF |
 | Sockets | socket covers (only if no built-in shutters) | ~10 CHF |
