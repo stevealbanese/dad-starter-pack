@@ -76,10 +76,6 @@ Nuna = bulky
 | Product | Price |
 |---|---|
 | **BabyBjörn Bouncer Bliss** | ~200 CHF |
-| Nuna Leaf Grow | ~300 CHF |
-
-Never on a table or sofa. Not for sleeping.
-
 ---
 
 ## 😴 Sleep
@@ -88,13 +84,8 @@ Never on a table or sofa. Not for sleeping.
 |---|---|---|
 | Bedside crib (0–6 m) | Chicco Next2Me Forever | ~250 CHF |
 | Bedside crib (0–6 m) | SnüzPod 4 | ~300 CHF |
-| Cot | **IKEA Sundvik / Gulliver** | ~80–150 CHF |
 | Mattress | IKEA Pelleplutt / Vyssa (firm, exact fit) | ~60–120 CHF |
-| Sleeping bag | Grobag (Tommee Tippee) / Lässig | ~50 CHF |
-| Baby monitor (audio) | Philips Avent SCD735 | ~100 CHF |
 | Baby monitor (video) | Philips Avent SCD891 | ~200 CHF |
-
-**Safe sleep:** on the back · empty cot (no bumper, pillow, duvet, toys) · room at 18–20 °C · crib in parents' room for the first 6 months.
 
 ---
 
@@ -105,17 +96,6 @@ Never on a table or sofa. Not for sleeping.
 | Ergonomic carrier | **Ergobaby Omni Dream** | ~200 CHF |
 | Ergonomic carrier | Manduca XT | ~170 CHF |
 | Ergonomic carrier | BabyBjörn Harmony | ~230 CHF |
-
----
-
-## 🛁 Bath
-
-| Product | Price |
-|---|---|
-| **Stokke Flexi Bath** + newborn support | ~65 + 30 CHF |
-| IKEA Lättsam | ~15 CHF |
-
-Avoid bath seats/rings. Never leave a child alone in the bath.
 
 ---
 
@@ -134,5 +114,3 @@ Avoid bath seats/rings. Never leave a child alone in the bath.
 | Door finger pinch | Foam door stoppers | ~10 CHF |
 | Sockets | socket covers (only if no built-in shutters) | ~10 CHF |
 | Table corners | Silicone corner guards | ~10 CHF |
-
-Norms: EN 1930 (gates). 📞 Poison emergency (Switzerland): **Tox Info Suisse — 145**.
