@@ -22,6 +22,7 @@ Tant qu'il faut les porter pour les installer un siège bébé qui rotate = must
 | Product | Weight |
 |---|---|
 | Babyzen YOYO³ | ~6.2 kg |
+
 La poussette de bobo par excellence. Mais ne prend pas de place une fois pliée. Ca peut être chiant sur les pavée.
 
 **Big (large basket, big air wheels)**
@@ -112,3 +113,4 @@ La IKEA peut passer au Karcher... et le catchy pour éviter des crises de nerfs.
 | Door finger pinch | Foam door stoppers | ~10 CHF |
 | Sockets | socket covers (only if no built-in shutters) | ~10 CHF |
 | Table corners | Silicone corner guards | ~10 CHF |
+- Truc important = acheter des VRAIS mousquetons genre Salewa et assimilé. Toujours utile pour accrocher le sac à langer ou d'autre objets (casquette, biberon, etc.).
