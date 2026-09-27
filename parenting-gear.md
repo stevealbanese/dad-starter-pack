@@ -30,32 +30,21 @@ No affiliate links, no sponsorship.
 | Product | Weight | Price |
 |---|---|---|
 | Babyzen YOYO³ | ~6.2 kg | ~450 CHF | -> why
-| Bugaboo Butterfly 2 | ~7.3 kg | ~450 CHF |
-| Nuna Pepp Luxx (Stiftung Warentest buggy winner) | ~7.5 kg | ~400 CHF |
-| Joie Pact Pro | ~6.5 kg | ~250 CHF |
 
-**Big (large basket, big air wheels, mountain)**
+**Big (large basket, big air wheels)**
 
 | Product | Price |
 |---|---|
 | Thule Urban Glide 3 | ~700 CHF |
 | TFK Pro / Mono 2 Air | ~800 CHF |
-| Emmaljunga NXT90 Outdoor | ~1,100 CHF |
-| TFK Duo 2 (2 kids, Warentest best double 2026) | ~1,200 CHF |
+
 
 **Electric (auto-rocking)**
 
 | Product | Rocking | Push assist | Price |
 |---|---|---|---|
 | Cybex e-Priam (2026) | ✅ | ✅ | ~1,600–1,900 CHF |
-| Glüxkind Ella / Rosa | ✅ | ✅ | ~3,000 CHF |
 
-> Cybex Balios S Lux: good city stroller, but solid (non-air) wheels — not a real all-terrain.
-
-**Accessories**
-- Stroller carabiner hooks (Lässig Stroller Hooks or similar) — ~15 CHF / pair. Don't overload the handle: tip-over risk.
-
----
 
 ## 🎒 Changing bags
 
@@ -84,7 +73,7 @@ Check: stroller straps, changing mat included, insulated bottle pocket, waterpro
 Teat sizes: 0 extra slow · 1 slow · 2 medium (2m+) · 3 fast (4m+) · X thick liquids (6m+). Replace every 1–2 months.
 
 - **Bottle warmer:** not needed.
-- **Sterilizer:** optional. Hot soapy water or dishwasher is enough for a healthy full-term baby (ask your pediatrician for premature babies).
+- **Sterilizer:** optional. Hot soapy water or dishwasher is enough.
 
 ---
 
@@ -122,12 +111,6 @@ Never on a table or sofa. Not for sleeping.
 | Ergonomic carrier | **Ergobaby Omni Dream** | ~200 CHF |
 | Ergonomic carrier | Manduca XT | ~170 CHF |
 | Ergonomic carrier | BabyBjörn Harmony | ~230 CHF |
-| Stretchy wrap (first months) | Boba Wrap | ~50 CHF |
-| Woven wrap | Didymos | ~120–200 CHF |
-| Hiking carrier (6 m+) | Deuter Kid Comfort | ~330 CHF |
-| Hiking carrier (6 m+) | Osprey Poco | ~350 CHF |
-
-M-position (knees higher than bottom). Face always visible. Facing out only once head control is good (~5–6 months), short periods, never for sleeping.
 
 ---
 
@@ -155,22 +138,7 @@ Avoid bath seats/rings. Never leave a child alone in the bath.
 | Blind cords (strangulation) | Cord winders / cleats | ~10 CHF |
 | Oven & hob | Reer oven lock + hob guard | ~20 / 40 CHF |
 | Door finger pinch | Foam door stoppers | ~10 CHF |
-| Sockets | Swiss type 13 socket covers (only if no built-in shutters) | ~10 CHF |
+| Sockets | socket covers (only if no built-in shutters) | ~10 CHF |
 | Table corners | Silicone corner guards | ~10 CHF |
 
 Norms: EN 1930 (gates). 📞 Poison emergency (Switzerland): **Tox Info Suisse — 145**.
-
----
-
-## 🚫 Don't buy
-
-- Cot bumpers, sleep positioners, baby nests/cocoons for sleeping
-- Breathing monitors sold as SIDS prevention
-- Bath seats and rings
-- Non-tested car seat accessories (inserts, head supports not from the seat maker)
-- Euro-style socket covers (don't fit Swiss sockets)
-- Narrow-seat carriers with dangling legs
-
----
-
-*Prices are indicative and may vary. Always check current recalls: [Swiss Federal Consumer Office](https://www.konsum.admin.ch) · [EU Safety Gate](https://ec.europa.eu/safety-gate).*
