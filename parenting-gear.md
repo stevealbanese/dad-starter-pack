@@ -91,11 +91,11 @@ La IKEA peut passer au Karcher... et le catchy pour éviter des crises de nerfs.
 
 ## 🤱 Carriers
 
-| Type | Product | Price |
-|---|---|---|
-| Ergonomic carrier | **Ergobaby Omni Dream** | ~200 CHF |
-| Ergonomic carrier | Manduca XT | ~170 CHF |
-| Ergonomic carrier | BabyBjörn Harmony | ~230 CHF |
+| Type | Product |
+|---|---|
+| Ergonomic carrier | **Ergobaby Omni Dream** |
+| Ergonomic carrier | Manduca XT |
+| Ergonomic carrier | BabyBjörn Harmony |
 
 ---
 
