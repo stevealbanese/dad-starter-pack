@@ -86,7 +86,7 @@ La IKEA peut passer au Karcher... et le catchy pour éviter des crises de nerfs.
 | Item | Product |
 |---|---|
 
-| Baby monitor (video) | Philips Avent SCD891 |
+incoming
 
 ---
 
@@ -98,19 +98,21 @@ La IKEA peut passer au Karcher... et le catchy pour éviter des crises de nerfs.
 | Ergonomic carrier | Manduca XT |
 | Ergonomic carrier | BabyBjörn Harmony |
 
+Testé et validé. Sac de rando-porte-bébé c'est de la merde.
 ---
 
 ## 🏠 Childproofing
 
-| Need | Product | Price |
-|---|---|---|
-| Stairs (top: screw-fit only) | **BabyDan Premier** | ~70 CHF |
-| Doorway (pressure-fit) | Lindam Sure Shut Axis | ~50 CHF |
-| Windows (fall risk) | Reer / Safety 1st window lock | ~15 CHF each |
-| Tall furniture (tip-over) | Anti-tip straps (IKEA kit / Safety 1st) | ~15 CHF |
-| Drawers & cupboards | Safety 1st / Reer flexible latches | ~10 CHF |
-| Oven & hob | Reer oven lock + hob guard | ~20 / 40 CHF |
-| Door finger pinch | Foam door stoppers | ~10 CHF |
-| Sockets | socket covers (only if no built-in shutters) | ~10 CHF |
-| Table corners | Silicone corner guards | ~10 CHF |
+| Need | Product |
+|---|---|
+| Stairs (top: screw-fit only) | **BabyDan Premier** |
+| Doorway (pressure-fit) | Lindam Sure Shut Axis |
+| Windows (fall risk) | Reer / Safety 1st window lock |
+| Tall furniture (tip-over) | Anti-tip straps (IKEA kit / Safety 1st) |
+| Drawers & cupboards | Safety 1st / Reer flexible latches |
+| Oven & hob | Reer oven lock + hob guard |
+| Door finger pinch | Foam door stoppers |
+| Sockets | socket covers (only if no built-in shutters) |
+| Table corners | Silicone corner guards |
+
 - Truc important = acheter des VRAIS mousquetons genre Salewa et assimilé. Toujours utile pour accrocher le sac à langer ou d'autre objets (casquette, biberon, etc.).
